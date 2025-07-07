@@ -1,24 +1,23 @@
-Ansh Gorawara 👋
-Data Science student at the University of Illinois Chicago (UIC) with a global perspective forged across Hong Kong, India, Malaysia, and the US. I'm driven to move beyond just analyzing data to building the technical systems that create solutions.
+### Hello, World! 👋 I'm Ansh Gorawara.
 
-My Journey to Data
-My background is in business strategy and marketing, where I conducted competitive analysis and market feasibility studies for product launches. I saw firsthand how data-driven decisions could reduce costs by 15% or increase donor engagement by 25%. That experience ignited my passion for the technical side—to build the tools that predict and act upon these insights. That's why I'm here.
+I'm a **Data Science student at the University of Illinois Chicago (UIC)**, driven to build elegant, impactful solutions with data. My journey through Hong Kong, India, Malaysia, and the US has given me a unique global perspective on how technology can solve real-world business problems.
 
-Current Mission: Fall 2025
-Core Focus: Mastering Data Structures & Algorithms (CS 251) and applied Probability & Statistics (IE 342).
+My background is in business strategy, where I saw firsthand how data-driven decisions could **reduce procurement costs by 15%** or **increase donor engagement by 25%**. That experience ignited my passion to move beyond just *analyzing* data to *building* the technical systems that predict and act upon those insights.
 
-Portfolio Project: Building my first major project in Exploratory Data Analysis (EDA) with Python.
+---
 
-Professional Growth: Preparing for a high-impact Technology Risk Consulting Internship at Ernst & Young (EY).
+**I'm currently focusing on:**
+* Mastering foundational coursework in **Data Structures & Algorithms (CS 251)** and **Probability & Statistics (IE 342)**.
+* Building a portfolio of data analysis projects using Python and its powerful data science libraries.
+* Preparing for a high-impact **Technology Risk Consulting Internship at Ernst & Young (EY)**.
 
-My Arsenal
-Languages: Python, Java, C++, SQL
+**My Technical Toolkit:**
+* **Languages:** Python, Java, C++, SQL
+* **Core Concepts:** Object-Oriented Programming, Data Structures & Algorithms, Statistical Modeling
+* **Tools:** Git, VS Code, Jupyter Notebook
 
-Concepts: Object-Oriented Programming, Data Structures & Algorithms, Statistical Analysis
+**How to Reach Me:**
+* **LinkedIn:** [linkedin.com/in/anshgorawara](https://linkedin.com/in/anshgorawara)
+* **Email:** anshgorawara23@gmail.com
 
-Tools: Git, VS Code, Jupyter Notebook
-
-Let's Connect
-LinkedIn: linkedin.com/in/anshgorawara
-
-Email: anshgorawara23@gmail.com
+---
